@@ -2,7 +2,7 @@
 Criando um plano de estudos simplificado para quem gostaria de iniciar na programação front-end. Este guia faz parte de uma mentoria da Digital Innovation One.
 
 
-`` system.out.println("Hello mworld! Sua jornada começou?") `` 
+`` system.out.println("Hello world! Sua jornada começou?") `` 
 
 <!--:emojicode-->
 
