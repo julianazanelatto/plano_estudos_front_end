@@ -4,7 +4,8 @@ Criando um plano de estudos simplificado para quem gostaria de iniciar na progra
 
 `` system.out.println("Hello mworld! Sua jornada começou?") `` 
 
-[*goal] Objetivos
+<-- :emojicode -->
+🌟 Objetivos
 - Aprender a programar em HTML Básico
 - Aprender estilização com CSS
 - Aprender JS básico
